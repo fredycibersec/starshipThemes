@@ -30,6 +30,7 @@ Con la plantilla ```root_starship.toml``` obtendrás la shell siguiente:
 ## Plantilla PowerShell
 
 Versión para Windows Powershell disponible.
-Copia el fichero windows_starship.toml en la carpeta de configuración y renómbralo a ```starship.toml``` para que se active.
+
+Copia el fichero ```windows_starship.toml``` en la carpeta de configuración y renómbralo a ```starship.toml``` para que se active.
 
 **Basado en** [**Pastel PowerLine**](https://starship.rs/es-ES/presets/#pastel-powerline)
