@@ -22,10 +22,15 @@ Con la plantilla ```root_starship.toml``` obtendrás la shell siguiente:
 
 ## Configuración de la shell en Linux
 
-**Opción 1:** Usa el instalador
-```install.sh``` 
+**Opción 1:** Usa el instalador ```install.sh```:
+```bash
+git clone https://github.com/docentemasterd/starshipThemes
+cd starshipThemes
+chmod +x install.sh
+./install.sh
+```
 
-**Opción 2:** Copia y pega el fichero que corresponda en la carpeta $HOME/.config/ de cada usuario, renombrándolo a ```starship.toml```
+**Opción 2:** Copia y pega el fichero que corresponda en la carpeta ```$HOME/.config/``` de cada usuario, renombrándolo a ```starship.toml```
 
 ## Plantilla PowerShell
 
